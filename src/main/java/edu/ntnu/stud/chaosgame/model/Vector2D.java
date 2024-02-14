@@ -16,7 +16,12 @@ public class Vector2D {
   private double x1;
 
   /**
-   * Create a new 2D vector.
+   * Create a new 2D vector; default constructor.
+   */
+  public Vector2D() {}
+
+  /**
+   * Create a new 2D vector; parameterized.
    *
    * @param x0 The x0 component of the vector.
    * @param x1 The x1 component of the vector.
