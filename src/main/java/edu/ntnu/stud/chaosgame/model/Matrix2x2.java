@@ -1,4 +1,4 @@
-package edu.ntnu.stud.model;
+package edu.ntnu.stud.chaosgame.model;
 
 /**
  * Class representing a 2x2 matrix.

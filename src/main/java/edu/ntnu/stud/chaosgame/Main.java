@@ -1,4 +1,4 @@
-package edu.ntnu.stud;
+package edu.ntnu.stud.chaosgame;
 
 public class Main {
 
