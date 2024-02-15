@@ -14,7 +14,7 @@ public class Complex extends Vector2D{
 
   /**
    * Get the square root of the complex number.
-   * 
+   *
    * @return The square root of the complex number.
    */
   public Complex sqrt() {
