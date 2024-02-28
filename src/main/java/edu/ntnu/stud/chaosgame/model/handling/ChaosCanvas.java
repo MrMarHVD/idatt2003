@@ -1,7 +1,8 @@
-package edu.ntnu.stud.chaosgame.transformations;
+package edu.ntnu.stud.chaosgame.model.handling;
 
 import edu.ntnu.stud.chaosgame.model.Matrix2x2;
 import edu.ntnu.stud.chaosgame.model.Vector2D;
+import edu.ntnu.stud.chaosgame.model.transformations.AffineTransform2D;
 
 
 /**

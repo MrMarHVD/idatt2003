@@ -1,4 +1,4 @@
-package edu.ntnu.stud.chaosgame.transformations;
+package edu.ntnu.stud.chaosgame.model.transformations;
 
 import edu.ntnu.stud.chaosgame.model.Complex;
 import edu.ntnu.stud.chaosgame.model.Vector2D;
