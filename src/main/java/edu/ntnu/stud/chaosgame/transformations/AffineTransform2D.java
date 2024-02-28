@@ -14,6 +14,7 @@ public class AffineTransform2D extends Transform2D {
      * The matrix{@link Matrix2x2} which performs the matrix-multiplication part of the affine transformation.
      */
     Matrix2x2 matrix;
+
     /**
      * The vector{@link Vector2D} which is added as part of the affine transformation.
      */
