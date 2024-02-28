@@ -10,6 +10,7 @@ public class JuliaTransform extends Transform2D {
      * is added or subtracted in the Julia transformations.
      */
     private Complex c1;
+
     /**
      * The sign used to determine if the Julia transformations adds or subtracts {@link Complex} c1.
      */
